@@ -1,0 +1,18 @@
+.jumbotron {
+    background-color:#6a60d5;
+    color: ivory;
+}
+
+.card-header {
+    background-color:#6a60d5;
+    color: ivory;
+    font-size: 20px;
+}
+
+button {
+    background-color:#6a60d5;
+    padding: 10px;
+    color: ivory;
+    font-size: 20px;
+
+}
